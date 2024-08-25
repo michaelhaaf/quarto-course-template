@@ -6,6 +6,7 @@ website:
   favicon: "assets/favicons/favicon.ico"
   image: "assets/icon-lightbg.svg"
   navbar:
+    logo: "assets/icon-lightbg.svg"
     left:
       - href: index.qmd
         text: Home
