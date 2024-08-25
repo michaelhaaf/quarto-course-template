@@ -3,11 +3,25 @@ project:
 
 website:
   title: "template-site"
+  favicon: "assets/favicons/favicon.ico"
+  image: "assets/icon-lightbg.svg"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  open-graph: true
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+  search:
+    show-item-context: true
+    type: overlay
+    copy-button: true
+  page-footer:
+    center:
+      - text: "About"
+        href: about.qmd
 
 format:
   html:
