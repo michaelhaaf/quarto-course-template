@@ -5,13 +5,13 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>template-site</title>
+<title>{{&lt; var course.title &gt;}}</title>
 <link>https://michaelhaaf.github.io/quarto-course-template/announcements/</link>
 <atom:link href="https://michaelhaaf.github.io/quarto-course-template/announcements/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <image>
 <url>https://michaelhaaf.github.io/quarto-course-template/_assets/icon-lightbg.svg</url>
-<title>template-site</title>
+<title>{{&lt; var course.title &gt;}}</title>
 <link>https://michaelhaaf.github.io/quarto-course-template/announcements/</link>
 </image>
 <generator>quarto-1.5.56</generator>
