@@ -3,10 +3,10 @@ project:
 
 website:
   title: "template-site"
-  favicon: "assets/favicons/favicon.ico"
-  image: "assets/icon-lightbg.svg"
+  favicon: "_assets/favicons/favicon.ico"
+  image: "_assets/icon-lightbg.svg"
   navbar:
-    logo: "assets/icon-lightbg.svg"
+    logo: "_assets/icon-lightbg.svg"
     left:
       - href: index.qmd
         text: Home
